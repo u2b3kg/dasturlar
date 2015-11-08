@@ -4,6 +4,7 @@ import java.util.Scanner;
  * Bismillaxir Rohmanir Rohim
  * Created by Bahriddin on 14.07.2015.
  */
+//Archa dasturi
 public class Archa {
     public static void main(String[] args) {
         Scanner kiritilgan = new Scanner(System.in);
